@@ -1,0 +1,16 @@
+.DS_S*
+__pycache__/
+audio_utils.py
+data_utils.py
+image_utils.py
+*_utils.py.*
+*.py.*
+*.pyc
+*.pyc.*
+tmp.wav
+data/**/*.jpg
+data/**/*.png
+!data/image/hog.jpg
+!data/image/secrets/secret*.png
+!data/image/secrets/plain/plain*.png
+!Homework04_utils.pyc
